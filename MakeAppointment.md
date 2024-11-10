@@ -1,5 +1,3 @@
-# StyleSync
-
 ```mermaid
 sequenceDiagram
     actor Customer
